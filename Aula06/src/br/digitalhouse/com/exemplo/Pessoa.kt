@@ -1,6 +1,6 @@
 package br.digitalhouse.com.exemplo
 
-class Pessoa(nome: String, sobrenome: String, idade: Int) {
+class Pessoa(var nome: String, var sobrenome: String, var idade: Int) {
 
     fun jantar() {
 
