@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d87caf05-4730-45a7-938f-eacc33cd5ab8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gyas1piD1FVe9jhCp6A7OB00Sn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="AulaKotlinSemObjeto" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.digital.com.aula.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d87caf05-4730-45a7-938f-eacc33cd5ab8" name="Default Changelist" comment="" />
+      <created>1599089490758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599089490758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="39" width="800" height="729" key="#Intentions" timestamp="1599090909447">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="307" y="39" width="800" height="729" key="#Intentions/59.27.1307.741@59.27.1307.741" timestamp="1599090909447" />
+    <state width="1261" height="175" key="GridCell.Tab.0.bottom" timestamp="1599093701642">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1599093701642" />
+    <state width="1261" height="175" key="GridCell.Tab.0.center" timestamp="1599093701641">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1599093701641" />
+    <state width="1261" height="175" key="GridCell.Tab.0.left" timestamp="1599093701641">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1599093701641" />
+    <state width="1261" height="175" key="GridCell.Tab.0.right" timestamp="1599093701641">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1599093701641" />
+    <state x="258" y="108" width="898" height="647" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599092438792">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="258" y="108" width="898" height="647" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/59.27.1307.741@59.27.1307.741" timestamp="1599092438792" />
+  </component>
+</project>
